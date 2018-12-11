@@ -1,0 +1,7 @@
+2018-12-10 19:54:54> Enviando correo a: guest@mail.com, ,  Contenido del correo: Se ha subido el archivo hgignore_global.txt
+2018-12-10 19:56:02> Enviando correo a: guest@mail.com, ,  Contenido del correo: Se ha subido el archivo VIDEO DIEGO.docx
+2018-12-10 19:58:51> Enviando correo a: guest@mail.com, tito@mail.com,  Contenido del correo: Se ha eliminado el archivo VIDEO DIEGO.docx
+2018-12-10 20:02:11> Enviando correo a: guest@mail.com, tito@mail.com,  Contenido del correo: Se ha subido el archivo Cuando Dios Hizo todo.pptx
+2018-12-10 20:03:05> Enviando correo a: guest@mail.com, tito@mail.com, alfredo@mail.com,  Contenido del correo: Se ha subido el archivo intro.adoc
+2018-12-10 20:05:28> Enviando correo a: guest@mail.com, tito@mail.com, alfredo@mail.com,  Contenido del correo: Se ha eliminado el archivo 33058654_2004567762908528_6128837667611213824_n.jpg
+2018-12-10 20:09:31> Enviando correo a: guest@mail.com, tito@mail.com, alfredo@mail.com,  Contenido del correo: Se ha subido el archivo intro.pdf
